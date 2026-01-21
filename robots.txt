@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://art-mex-fishing.github.io/artmexfishing/sitemap.xml
